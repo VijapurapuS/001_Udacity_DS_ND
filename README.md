@@ -35,5 +35,5 @@ Steps:
 
 5. Licensing, Authors, Acknowledgements, etc.
 ------------------------
-IPL Dataset from Kaggle--> https://www.kaggle.com/manasgarg/ipl/
-Udacity for the awesome Data Scientist for Enterprise Nano Science program
+1. IPL Dataset from Kaggle--> https://www.kaggle.com/manasgarg/ipl/
+2. Udacity for the awesome Data Scientist for Enterprise Nano Science program
